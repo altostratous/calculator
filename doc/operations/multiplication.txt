@@ -1,3 +1,5 @@
 Is like addition unless it does multiplication as a function
 
 Multiplication can be done both with integers and floating point numbers
+
+Add some changes
