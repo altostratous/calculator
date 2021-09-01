@@ -6,4 +6,5 @@ Multiplication can be done both with integers and floating point numbers
 
 Add some changes
 
-In this very same line, Add something to the bottom of the file
+Add something to the bottom of the file, in the same line
+
