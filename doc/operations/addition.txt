@@ -1,0 +1,7 @@
+The addition operation will be in this order
+first the first number is entered
+then the addition button is pressed
+then the second number is entered
+then the equal button is pressed
+then the result will be shown
+
